@@ -15,11 +15,11 @@ This project focuses on learning Redux Toolkit to store the global state in the 
 ## App demo
 Landing UI
 
-![Landing UI](https://cdn.discordapp.com/attachments/1234784359823966208/1234784385702825984/image.png?ex=6631fe12&is=6630ac92&hm=f3bc352a035595be93a01bbe7878d42925abd2f7254632a0d7b74ecef2099b65&)
+![Landing UI](https://cdn.discordapp.com/attachments/1234784359823966208/1234784385702825984/image.png?ex=66447312&is=66432192&hm=1f6d437cd62e2179437313194234c3e573acfd2f3d1639535def76f169345b01&)
 
 Cart UI
 
-![Cart UI](https://cdn.discordapp.com/attachments/1234784359823966208/1234784522080485437/image.png?ex=6631fe33&is=6630acb3&hm=c654377ad63cb5115ff0ad0b9cb0ded06e1fecaa0c397e6203ec04e7223b9f60&)
+![Cart UI](https://cdn.discordapp.com/attachments/1234784359823966208/1234784522080485437/image.png?ex=66447333&is=664321b3&hm=0d849090bc16870911965b6fc05f3e454391b52c0a1af0c9d84cf1a30c761a00&)
 
 ## Acknoledgement
 
